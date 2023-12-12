@@ -1,1 +1,2 @@
 this is test file only
+and this is commit sample from terminal
